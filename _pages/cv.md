@@ -15,7 +15,7 @@ Education
 * M.S. in Electrical Engineering, Harbin Engineering University, 2015
 * B.S. in Electrical Engineering, Harbin University of Science and Technology, 2012
 
-Work experience
+Work Experience
 ======
 * Oct 2022-Present: Research Fellow
   * National University of Singapore
@@ -24,9 +24,9 @@ Work experience
 * Sep 2015- Sep 2020: Research Assistant
   * Research Foundation of SUNY 
   
-Service and leadership
+Service and Leadership
 ======
 * 2018-2020: Senator
-  * Graduate Student Association, SUNY Buffalo.
+  * Graduate Student Association - Senate, SUNY Buffalo.
 * 2017-2018: President 
   * Graduate Student Association - EE Sector, SUNY Buffalo.
