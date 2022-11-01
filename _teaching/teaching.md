@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/teaching
+permalink: /teaching/
 venue: "University at Buffalo, Department of Electrical Engineering"
 date: 2016-2020
 location: "Amherst, New York"
