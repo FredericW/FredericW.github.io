@@ -12,7 +12,7 @@ I am a research fellow at the School of Computing, National University of Singap
 My research interests include but not limited to, data privacy and security, network information theory, fishing, hiking, and cat-mastering.
 
 ## Publications
-======
+
 Wang, Bo, Jiayao Hou, Yanyan Ma, Fei Wang, and **Fei Wei**. "Multi-DS Strategy for Source Camera Identification in Few-Shot Sample Data Sets." Security and Communication Networks 2022 (2022). 
 
 Alghamdi, Wael, Shahab Asoodeh, Flavio P. Calmon, Juan Felipe Gomez, Oliver Kosut, Lalitha Sankar, and **Fei Wei**. "The Saddle-Point Accountant for Differential Privacy." arXiv preprint arXiv:2208.09595 (2022). 
