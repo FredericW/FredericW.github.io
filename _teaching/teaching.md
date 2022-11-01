@@ -14,7 +14,7 @@ This is a description of a teaching experience. You can use markdown like any ot
   * 2017 Spring, 2018 Spring, 2019 Spring, 2020 Spring
 * VHDL, Teaching Assistant
   * 2018 Fall
-*EE 200 Electrical Engineering Principles, Teaching Assistant
+* EE 200 Electrical Engineering Principles, Teaching Assistant
   * 2016 Fall
 * EE510 Circuit Analysis I, Teaching Assistant
   * 2016 Spring
