@@ -19,14 +19,14 @@ Work experience
 ======
 * Oct 2022-Present: Research Fellow
   * National University of Singapore
-
 * Oct 2020-Jul 2022: Postdoctoral Research Scholar
   * Arizona State University
-
 * Sep 2015- Sep 2020: Research Assistant
   * Research Foundation of SUNY 
   
 Service and leadership
 ======
-* 2018-2020 Senator, Graduate Student Association, SUNY Buffalo.
-* 2017-2018 President, Graduate Student Association - EE Sector, SUNY Buffalo.
+* 2018-2020: Senator
+  * Graduate Student Association, SUNY Buffalo.
+* 2017-2018: President 
+  * Graduate Student Association - EE Sector, SUNY Buffalo.
