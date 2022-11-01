@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* EE 178 Digital Principles, Chief Teaching Assistant
+* EE178 Digital Principles, Chief Teaching Assistant
   * 2017 Spring, 2018 Spring, 2019 Spring, 2020 Spring
-* VHDL, Teaching Assistant
+* EE478 VHDL, Teaching Assistant
   * 2018 Fall
-* EE 200 Electrical Engineering Principles, Teaching Assistant
+* EE200 Electrical Engineering Principles, Teaching Assistant
   * 2016 Fall
 * EE510 Circuit Analysis I, Teaching Assistant
   * 2016 Spring
