@@ -11,10 +11,10 @@ location: "Amherst, New York"
 This is a description of a teaching experience. You can use markdown like any other post.
 
 * EE 178 Digital Principles, Chief Teaching Assistant
-  *2017 Spring, 2018 Spring, 2019 Spring, 2020 Spring
+  * 2017 Spring, 2018 Spring, 2019 Spring, 2020 Spring
 * VHDL, Teaching Assistant
-  *2018 Fall
+  * 2018 Fall
 *EE 200 Electrical Engineering Principles, Teaching Assistant
-  *2016 Fall
+  * 2016 Fall
 * EE510 Circuit Analysis I, Teaching Assistant
-  *2016 Spring
+  * 2016 Spring
