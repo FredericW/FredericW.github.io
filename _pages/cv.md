@@ -26,7 +26,7 @@ Work Experience
   
 Service and Leadership
 ======
-* 2018-2020: Senator
+* 2018-2020: Senator/Senior Senator
   * Graduate Student Association - Senate, SUNY Buffalo.
 * 2017-2018: President 
   * Graduate Student Association - EE Sector, SUNY Buffalo.
