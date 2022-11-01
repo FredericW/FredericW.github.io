@@ -10,7 +10,7 @@ location: "Amherst, New York"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-*EE 178 Digital Principles, Chief Teaching Assistant
+* EE 178 Digital Principles, Chief Teaching Assistant
   *2017 Spring, 2018 Spring, 2019 Spring, 2020 Spring
 * VHDL, Teaching Assistant
   *2018 Fall
