@@ -10,13 +10,11 @@ redirect_from:
 
 I am a research scientist at Alibaba Group. Prior to that, I 
  worked as a research fellow at National University of 
-Singapore and collaborated with 
-[Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/) 
-from 2022 to 2024, and worked  as a postdoctoral research 
-scholar at Arizona State University worked with 
+Singapore, collaborated with 
+[Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/), and a postdoctoral 
+research scholar at Arizona State University, collaborated with 
 [Prof.Lalitha Sankar](https://sankar.engineering.asu.edu/) and 
-[Prof.Oliver Kosut](https://sites.google.com/site/okosut/) 
-from 2020 to 2022. 
+[Prof.Oliver Kosut](https://sites.google.com/site/okosut/).
 I obtained my PhD in Electrical Engineering from the State University of New York at Buffalo in 2020, advised by 
 [Prof.Michael Langberg](https://www.acsu.buffalo.edu/~mikel/).
 
