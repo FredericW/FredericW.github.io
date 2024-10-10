@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Wang, Bo, Xiaohan Wu, Fei Wang, Yushu Zhang, **Fei Wei**, and Zengren Song. "Spatial-frequency feature fusion based deepfake detection through knowledge distillation." Engineering Applications of Artificial Intelligence 133 (2024): 108341.
+
+* Wang, Bo, Jiayao Hou, Fei Wei, Fei Yu, and Weiming Zheng. "MDM-CPS: a few-shot sample approach for source camera identification." Expert Systems with Applications 229 (2023): 120315.
+
+* Wang, Bo, Xiaohan Wu, Yeling Tang, Yanyan Ma, Zihao Shan, and **Fei Wei**. "Frequency domain filtered residual network for deepfake detection." Mathematics 11, no. 4 (2023): 816.
+
+* Zhao, Mengnan, Xiaorui Dai, Bo Wang, Fei Yu, and **Fei Wei**. "Further understanding towards sparsity adversarial attacks." In International Conference on Artificial Intelligence and Security, pp. 200-212. Cham: Springer International Publishing, 2022.
+
+* Wang, Bo, Shiqi Wu, **Fei Wei**, Yue Wang, Jiayao Hou, and Xue Sui. "Virtual sample generation for few-shot source camera identification." Journal of Information Security and Applications 66 (2022).
 
 * Wang, Bo, Jiayao Hou, Yanyan Ma, Fei Wang, and **Fei Wei**. "Multi-DS Strategy for Source Camera Identification in Few-Shot Sample Data Sets." Security and Communication Networks 2022 (2022). 
 

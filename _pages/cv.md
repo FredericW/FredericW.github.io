@@ -11,18 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, State University of New York at Buffalo, 2020
-* M.S. in Electrical Engineering, Harbin Engineering University, 2015
-* B.S. in Electrical Engineering, Harbin University of Science and Technology, 2012
+* Ph.D in Electrical Engineering, State University of New York at Buffalo, USA, 2020
+* M.S. in Electrical Engineering, Harbin Engineering University, China, 2015
+* B.S. in Electrical Engineering, Harbin University of Science and Technology, China, 2012
 
 Work Experience
 ======
-* Oct 2022-Present: Research Fellow
-  * National University of Singapore
+* Apr 2024-Present: Research Scientist
+  * Alibaba Group, China
+* Oct 2022-Feb 2024: Research Fellow
+  * National University of Singapore, Singapore
 * Oct 2020-Jul 2022: Postdoctoral Research Scholar
-  * Arizona State University
+  * Arizona State University, USA
 * Sep 2015- Sep 2020: Research Assistant
-  * Research Foundation of SUNY 
+  * Research Foundation of SUNY, USA
   
 Service and Leadership
 ======
