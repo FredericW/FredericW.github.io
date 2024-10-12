@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Xinjian Luo, Yangfan Jiang, **Fei Wei**, Yuncheng Wu, Xiaokui Xiao, and Beng Chin Ooi. 2024. "Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective". IEEE Transactions on Information Forensics and Security. 19 (2024), 8109–8124.
+
+* **Fei Wei**, Ergute Bao, Xiaokui Xiao, Yin Yang, and Bolin Ding. 2024. "AAA: An Adaptive Mechanism for Locally Differentially Private Mean Estimation." Proc. VLDB Endowment. Vol.17, 8 (April 2024), 1843–1855.
+
 * Wang, Bo, Xiaohan Wu, Fei Wang, Yushu Zhang, **Fei Wei**, and Zengren Song. "Spatial-frequency feature fusion based deepfake detection through knowledge distillation." Engineering Applications of Artificial Intelligence 133 (2024): 108341.
 
 * Wang, Bo, Jiayao Hou, **Fei Wei**, Fei Yu, and Weiming Zheng. "MDM-CPS: a few-shot sample approach for source camera identification." Expert Systems with Applications 229 (2023): 120315.
