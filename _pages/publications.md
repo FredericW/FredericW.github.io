@@ -1,4 +1,11 @@
-*   Yangfan Jiang, **Fei Wei**, Ergute Bao, Yaliang Li, Bolin Ding, Yin Yang, and Xiaokui Xiao. "Accurate Table Question Answering with Accessible LLMs." In *2026 IEEE 42nd International Conference on Data Engineering (ICDE)*. IEEE, 2026.
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+* Yangfan Jiang, **Fei Wei**, Ergute Bao, Yaliang Li, Bolin Ding, Yin Yang, and Xiaokui Xiao. "Accurate Table Question Answering with Accessible LLMs." In *2026 IEEE 42nd International Conference on Data Engineering (ICDE)*. IEEE, 2026.
 *   **Fei Wei**, Daoyuan Chen, Ce Wang, Yilun Huang, Yushuo Chen, Xuchen Pan, Yaliang Li, and Bolin Ding. "Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs." In *Proceedings of the 43rd International Conference on Machine Learning (ICML)*. 2026.
 *   Ergute Bao, **Fei Wei**, Yin Yang, Xiaokui Xiao, Tianyu Pang, and Chao Du. "Towards learning on vertically partitioned data with distributed differential privacy." In *2025 IEEE 41st International Conference on Data Engineering (ICDE)*, pp. 2121-2134. IEEE, 2025.
 *   **Fei Wei**, Yaliang Li, and Bolin Ding. "Towards anthropomorphic conversational ai part i: A practical framework." arXiv preprint arXiv:2503.04787 (2025).
